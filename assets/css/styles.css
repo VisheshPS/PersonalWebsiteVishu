@@ -498,27 +498,27 @@ img{
 }
 
 .skills__html{
-    width: 20%;
-}
-
-.skills__discjs{
-    width: 23%;
-}
-
-.skills__css{
-    width: 25%;
-}
-
-.skills__js{
     width: 10%;
 }
 
+.skills__discjs{
+    width: 25%;
+}
+
+.skills__css{
+    width: 20%;
+}
+
+.skills__js{
+    width: 60%;
+}
+
 .skills__premierepro{
-    width: 40%;
+    width: 65%;
 }
 
 .skills__aftereffects{
-    width: 30;
+    width: 30%;
 }
 
 .skills__photoshop{
